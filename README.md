@@ -1,2 +1,3 @@
-# Excel-basics-practice-file-1
+# Data Analytics Daily task 
 Excel basics 
+SQL
